@@ -1,6 +1,10 @@
 # hello-workshop
-This is my McMaster Github Coding Workshop file.
+### This is my McMaster Github Coding Workshop file.
 
-1. *italics*   **bold**   ***bold-italics***
-2. Links go in square brackets [https://guides.github.com/features/mastering-markdown/]
-3. search mastering markdown
+Headings get a hashtag-space. Subheadings get more than 1 hashtag.
+1. list
+2. list
+3. list
+
+*italics* - **bold** - ***bold-italics***
+[Links go in square brackets] (https://guides.github.com/features/mastering-markdown/)
