@@ -7,4 +7,5 @@ Headings get a hashtag-space. Subheadings get more than 1 hashtag.
 3. list
 
 *italics get 1 asterisk* - **bold gets 2** - ***bold-italics get 3***
-[Links go in square brackets] (https://guides.github.com/features/mastering-markdown/)
+[Links go in square brackets](https://guides.github.com/features/mastering-markdown/) --
+[more links](https://code.visualstudio.com/)
